@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">QOTD</string>
+
+    <string-array name="quotes">
+        <item>"If you want to achieve greatness stop asking for permission." --Anonymous</item>
+        <item>"Things work out best for those who make the best of how things work out." --John Wooden</item>
+        <item>"To live a creative life, we must lose our fear of being wrong." --Anonymous</item>
+        <item>"If you are not willing to risk the usual you will have to settle for the ordinary." --Jim Rohn</item>
+        <item>"Trust because you are willing to accept the risk, not because it's safe or certain." --Anonymous</item>
+        <item>"Take up one idea. Make that one idea your life--think of it, dream of it, live on that idea. Let the
+brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea
+alone. This is the way to success." --Swami Vivekananda</item>
+        <item>"All our dreams can come true if we have the courage to pursue them." --Walt Disney</item>
+        <item>"Good things come to people who wait, but better things come to those who go out and get them." --
+Anonymous</item>
+        <item>"If you do what you always did, you will get what you always got." --Anonymous</item>
+        <item>"Success is walking from failure to failure with no loss of enthusiasm." --Winston Churchill</item>
+        <item>"Just when the caterpillar thought the world was ending, he turned into a butterfly." --Proverb</item>
+        <item>"Successful entrepreneurs are givers and not takers of positive energy." --Anonymous</item>
+        <item>"Whenever you see a successful person you only see the public glories, never the private sacrifices to
+reach them." --Vaibhav Shah</item>
+        <item>"Opportunities don't happen, you create them." --Chris Grosser</item>
+        <item>"Try not to become a person of success, but rather try to become a person of value." --Albert
+Einstein</item>
+        <item>"Great minds discuss ideas; average minds discuss events; small minds discuss people." --Eleanor
+Roosevelt</item>
+        <item>"I have not failed. I've just found 10,000 ways that won't work." --Thomas A. Edison</item>
+        <item>"If you don't value your time, neither will others. Stop giving away your time and talents--start
+charging for it." --Kim Garst</item>
+        <item>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him." -
+-David Brinkley</item>
+        <item>"No one can make you feel inferior without your consent." --Eleanor Roosevelt</item>
+        <item>"The whole secret of a successful life is to find out what is one's destiny to do, and then do it." --
+Henry Ford</item>
+        <item>"If you're going through hell keep going." --Winston Churchill</item>
+        <item>"The ones who are crazy enough to think they can change the world, are the ones who do." --
+Anonymous</item>
+        <item>"Don't raise your voice, improve your argument." --Anonymous</item>
+        <item>"What seems to us as bitter trials are often blessings in disguise." --Oscar Wilde</item>
+    </string-array>
+</resources>
